@@ -78,7 +78,7 @@ export default function Services() {
                   </p>
                   <ul className="p-6">
                     {service.items.map((item) => (
-                      <li>{item}</li>
+                      <li key={item}>{item}</li>
                     ))}
                   </ul>
                   {/* <a
