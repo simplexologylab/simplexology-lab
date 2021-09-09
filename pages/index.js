@@ -13,7 +13,7 @@ export default function Home() {
       <main className={styles.main}>
         <h1 className={styles.title}>Simplexology Lab</h1>
 
-        <h2>we make it simple.</h2>
+        <h2>we make it simple</h2>
 
         <p className={styles.description}>
           Stop struggling with making the best technology for your business,
