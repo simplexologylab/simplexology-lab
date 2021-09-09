@@ -16,7 +16,7 @@ export default function Contact() {
           us know and we'll be in touch. We offer free sessions to explore your
           needs to see if we're a match.
         </p>
-        <ul className="px-20 text-xl">
+        <ul className="md:px-20 md:text-xl">
           <li>
             By Email:{" "}
             <a href="mailto: contact@simplexologylab.com" target="_blank" rel="noreferrer">
