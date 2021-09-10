@@ -32,7 +32,7 @@ export default function Services() {
       description:
         "Need help exploring a new idea? We're always open to exploring ideas, even if they seem crazy 🤪. One of our favorite activities is watching something go from Idea > Reality.",
       items: [
-        "Brainstomring",
+        "Brainstorming",
         "Second Opinion (Or Third)",
         "Technology Advisory Services",
       ],
