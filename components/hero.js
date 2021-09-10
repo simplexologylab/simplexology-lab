@@ -1,7 +1,7 @@
 export default function Hero() {
   return (
     <div className="container min-h-screen flex flex-col place-content-center">
-      <div className="text-4xl md:text-6xl text-center">Simplexology Lab</div>
+      <div className="text-4xl m-4 md:text-6xl text-center">Simplexology Lab</div>
       <div className="text-xl md:text-3xl text-center mt-3">
         we make it simple
       </div>
