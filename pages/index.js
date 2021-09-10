@@ -4,6 +4,7 @@ import Hero from "../components/hero";
 import Mission from "../components/mission";
 import Services from "../components/services";
 import Contact from "../components/contact";
+import Footer from "../components/footer";
 
 export default function Home() {
   return (
@@ -24,7 +25,7 @@ export default function Home() {
       </main>
 
       <footer>
-        <p>Est 2020</p>
+        <Footer />
       </footer>
     </div>
   );
